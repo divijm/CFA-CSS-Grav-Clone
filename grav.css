@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Arsenal');
+
+/*html {
+	margin: 0;
+	padding: 0px 200px 0 200px;
+	}*/
+
+body {
+  background-color: #190728;
+	font-family: 'Arsenal', sans-serif;
+}
+
+.jumbotron {
+	background-color: #190728;
+	color: white;
+}
+
+.threeimage_container {
+  color: white;
+  text-align: center;
+}
+
+#GRAV {
+	font-weight: bold;
+}
+
+.first-section {
+  background: #190728;
+  background-repeat: 0;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: 100% auto;
+}
+
+button {
+  background-color: transparent;
+  border-radius: 15px;
+}
+
+.img-size-big {
+  height: 30px;
+  /*width: 20%;*/
+}
+
+.img-size-small {
+  height: 30px;
+  width: 30px;
+}
+
+hr#hr1 {
+	width: 100%;
+	border: 2px solid #C5156E;
+}
+/*.jumbotron {
+  background-image: image();
+}*/
+
+
+.threeimage_container h2 {
+  margin-top: 50px;
+}
+.threeimage_container p {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.threeimage_container {
+
+}
+
+#white-background {
+  border-top: 4px solid #C5156E;
+  max-width: auto;
+  background-color: #ffffff;
+  width: 100%;
+  margin: 0px auto 0;
+  max-width: auto;
+  padding: 0;
+  position: relative;
+  width: 100%;
+  z-index: 2;
+}
+/*#first {
+    background: #190728;
+}*/
+
+.carousel-inner img {
+	margin: auto;
+}
